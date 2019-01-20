@@ -30,16 +30,6 @@ One of the most difficult tasks is that, the selection of the software, once sys
 This project consists of player details, which describes about player biodata such as age and nationality. It also consists of player stats which describes about players technical skills. It also consists of tables containing details such as player earnings, club information and preferred position of playing. It also provide a strong searching, updating, deleting and inserting operations with a user friendly web based UI.
 The project also helps the users to keep track of the player details in a computerized way without any trouble. The project contains **7 stored procedures** and **3 triggers** per table. Stored procedures are used in search engine. Every time the user searches through the database, a procedure is called and the results is collected and displayed for the user in a structured manner. It also has 3 trigger namely “Insert, Delete and Update” triggers assigned separately to each table. Whenever operations such as insert or delete or update is performed on any table, these triggers are automatically called, and the logs are captured into 3 separate tables, individually for each trigger. Hence use of triggers provides users to trace back all the latest as well as the oldest changes into any table at any point of time.
 
-## Table and data structures in FMS
-
-FMS contains 5 tables for database storage and 3 log tables for storing individual triggers on insert,update and delete respectively.
-
-![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/tables/t1.jpg)
-![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/)
-![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/)
-![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/)
-![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/)
-
 ## Installtion and execution procedure
 
 - 1 : Install wamp [Download wamp from here](https://sourceforge.net/projects/wampserver/files/latest/download) 299Mb and update google chrome [download latest chrome from here](https://www.google.com/chrome/).
