@@ -34,7 +34,7 @@ The project also helps the users to keep track of the player details in a comput
 
 FMS contains 5 tables for database storage and 3 log tables for storing individual triggers on insert,update and delete respectively.
 
-![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/)
+![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/tables/t1.jpg)
 ![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/)
 ![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/)
 ![alt text](https://raw.githubusercontent.com/pkpk1717/FIFA-18-Management-System/edit/master/)
