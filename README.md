@@ -65,3 +65,4 @@ FMS contains 5 tables for database storage and 3 log tables for storing individu
           - type the following url : http://localhost/your_project_name_inside_www_directory/index.html
           - enjoy.
       
+For further queries : Drop me mail at pklappy21@gmail.com
