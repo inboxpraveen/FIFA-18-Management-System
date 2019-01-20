@@ -1,0 +1,8 @@
+[18-Jan-2018 18:00:56 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/onlin4yu/public_html/demo/live-table-edit-and-delete-with-jquery-ajax-php/logic-edit-delete.php on line 16
+[18-Jan-2018 18:00:56 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/onlin4yu/public_html/demo/live-table-edit-and-delete-with-jquery-ajax-php/logic-edit-delete.php on line 16
+[18-Jan-2018 18:02:36 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/onlin4yu/public_html/demo/live-table-edit-and-delete-with-jquery-ajax-php/logic-edit-delete.php on line 24
+[18-Jan-2018 18:02:36 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/onlin4yu/public_html/demo/live-table-edit-and-delete-with-jquery-ajax-php/logic-edit-delete.php on line 24
+[18-Jan-2018 18:02:49 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/onlin4yu/public_html/demo/live-table-edit-and-delete-with-jquery-ajax-php/logic-edit-delete.php on line 24
+[18-Jan-2018 18:02:49 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/onlin4yu/public_html/demo/live-table-edit-and-delete-with-jquery-ajax-php/logic-edit-delete.php on line 24
+[18-Jan-2018 18:06:12 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/onlin4yu/public_html/demo/live-table-edit-and-delete-with-jquery-ajax-php/logic-edit-delete.php on line 24
+[18-Jan-2018 18:06:12 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/onlin4yu/public_html/demo/live-table-edit-and-delete-with-jquery-ajax-php/logic-edit-delete.php on line 24
