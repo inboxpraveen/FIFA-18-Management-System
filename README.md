@@ -4,6 +4,8 @@ This repository contains all the project files and necessary details about softw
 
 ***NOTE : Please read installation and execution steps present at the bottom before downloading. Thank you***
 
+***Project demo : [Project demo video link](https://drive.google.com/open?id=1dcTCe_G5rUe6ibVh3Yd_pe3PIPPDiJ1c)***
+
 ## About FMS
 
 The project titled “FIFA 18 Player management system” is player management software for monitoring and accessing players based on their FIFA 18 PC/XBOX Game ratings. This project is developed using HTML, CSS and JavaScript for front-end and PHP, MySQL for back-end, which focuses on basic operation like adding a new player, new statistics, searching players with detailed information and edit as they grow their skills.
