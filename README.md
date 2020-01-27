@@ -56,6 +56,9 @@ The project also helps the users to keep track of the player details in a comput
           - Open new tab in chrome
           - type the following url : http://localhost/your_project_name_inside_www_directory/index.html
           - enjoy.
-      
+ 
+## Linting tool used:
+ 1 : JSLint
+ 
 
 For further queries : Drop me mail at pklappy21@gmail.com
