@@ -58,5 +58,6 @@ The project also helps the users to keep track of the player details in a comput
           - enjoy.
       
 ## Linting tool used:
-- 1 : JSLint
+ 1 : JSLint
+ 
 For further queries : Drop me mail at pklappy21@gmail.com
