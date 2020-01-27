@@ -70,7 +70,8 @@ return _this.resolve = resolve;});
     } }, { key: "randomChar", value: function randomChar()
     {
       return this.chars[Math.floor(Math.random() * this.chars.length)];
-    } }]);return TextScramble;}();
+    } }]);
+  return TextScramble;}();
 
 
 // ——————————————————————————————————————————————————
