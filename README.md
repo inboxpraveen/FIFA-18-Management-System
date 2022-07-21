@@ -2,7 +2,7 @@
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine.
 
-***NOTE: Please read the installation and execution provided below before downloading. Thank you.***
+***NOTE: Please read the installation and execution steps provided below before downloading. Thank you.***
 
 ***Project demo: [Project demo video link](https://drive.google.com/open?id=1dcTCe_G5rUe6ibVh3Yd_pe3PIPPDiJ1c)***
 
