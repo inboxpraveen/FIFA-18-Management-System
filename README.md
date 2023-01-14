@@ -9,7 +9,7 @@ This repository contains all the project files and necessary details about appli
 | Installation  | How to setup complete project inside your local system - Windows 10                                | To be Updated |
 | Project Guide | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated |
 
-Do you like it? Follow me on  [Twitter](https://twitter.com/InboxPraveen), [GitHub]([inboxpraveen (Praveen kumar) · GitHub](https://github.com/inboxpraveen)), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi.
+Do you like it? Follow me on  [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi.
 
 ## About FMS
 
