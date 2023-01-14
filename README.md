@@ -1,10 +1,17 @@
- # FIFA-18-Management-System (FMS)
+# FIFA-18-Management-System (FMS)
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine.
 
 ***NOTE: Please read the installation and execution steps provided below before downloading. Thank you.***
 
 ***Project demo: [Project demo video link](https://drive.google.com/open?id=1dcTCe_G5rUe6ibVh3Yd_pe3PIPPDiJ1c)***
+
+| Topic         | Description                                                                                        | Link          |
+| ------------- | -------------------------------------------------------------------------------------------------- | ------------- |
+| Demo          | Demo and showcase of major highlights in the project                                               | To be Updated |
+| Requirements  | Requirements and essential links to get started with the project                                   | To be Updated |
+| Installation  | How to setup complete project inside your local system - Windows 10                                | To be Updated |
+| Project Guide | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated |
 
 ## About FMS
 
@@ -16,15 +23,16 @@ One of the most difficult tasks is the selection of correct version of software.
 
 ### Hardware Requirement
 
-1.	32/64-bit processor
-2.	i3 or greater intel processor chip
-3.	1.7 or more GHz processor
+1. 32/64-bit processor
+2. i3 or greater intel processor chip
+3. 1.7 or more GHz processor
 
 ### Software Requirement
-1.	Windows 7 or higher version OS
-2.	Google chrome v70.0.3538 or greater
-3.	WAMPP web server
-4.	Brackets web editor
+
+1. Windows 7 or higher version OS
+2. Google chrome v70.0.3538 or greater
+3. WAMPP web server
+4. Brackets web editor
 
 ## Description of FMS
 
@@ -33,25 +41,30 @@ This project consists of player details which include the likes of player’s ag
 ## Installation and execution procedure
 
 1. Install wamp [Download wamp from here](https://sourceforge.net/projects/wampserver/files/latest/download) 299Mb and update google chrome [download latest chrome from here](https://www.google.com/chrome/).
+
 2. After installing wamp (Default directory : c:/wamp64/) , download the project and paste it in directory : (c:/wamp64/www/).
+
 3. Set your wamp **username to root** and no password. [Instructions to change username and password](https://hsnyc.co/how-to-set-the-mysql-root-password-in-localhost-using-wamp/)
+
 4. Start wampServer64 from the desktop icon and open google chrome and type the following url without quotes: "http://localhost/phpmyadmin/" and enter root as username and press Go.
+
 5. Now first you have to Load the database in your local server and then you can run the project. 
-     
+   
      To load the database :
-        
+   
         - Click on +New on the left hand column
         - Give database name as "fifa" (without quotes and small case) and set character encoding to "utf8mb4_unicode_ci"
         - After creating the database successfully, on the upper main menu panel, click on Import and then click "choose file" from file to import menu. Now browse to directory where you saved the project (expected directory: c://wamp/www/your_project_name/db/fifa.sql) and click on fifa.sql and then go down and click Go (Do not change any other settings).
         - After importing successfully, loading the database is complete.
-      
+   
      Run the project :
-      
+   
           - Open a new tab in chrome
           - type the following url : http://localhost/your_project_name_inside_www_directory/index.html
           - enjoy.
- 
+
 ## Linting tool used:
+
 1. JSLint 
 
 For further queries : Drop me mail at pklappy21@gmail.com
