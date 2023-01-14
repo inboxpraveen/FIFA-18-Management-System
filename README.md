@@ -23,7 +23,9 @@ In this section, we try to understand through video demo to play around the proj
 
 3. Creating/Deleting Database Triggers - To be updated
 
-***Please be slightly patient while I create and upload the demo video. Follow and star this project to get latest notifications and update. :raised_hands: ***
+____
+
+***Please be slightly patient while I create and upload the demo video. Follow and star this project to get latest notifications and update. :raised_hands:***
 
 ---
 
