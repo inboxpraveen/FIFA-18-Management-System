@@ -2,14 +2,18 @@
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine.
 
-| Topic         | Description                                                                                        | Link          |
-| ------------- | -------------------------------------------------------------------------------------------------- | ------------- |
-| Demo          | Demo and showcase of major highlights in the project                                               | To be Updated |
-| Requirements  | Requirements and essential links to get started with the project                                   | To be Updated |
-| Installation  | How to setup complete project inside your local system - Windows 10                                | To be Updated |
-| Project Guide | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated |
+| Topic         | Description                                                                                        | Link                                                                    |
+| ------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Demo          | Demo and showcase of major highlights in the project                                               | [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#demo) |
+| Requirements  | Requirements and essential links to get started with the project                                   | To be Updated                                                           |
+| Installation  | How to setup complete project inside your local system - Windows 10                                | To be Updated                                                           |
+| Project Guide | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated                                                           |
 
 Do you like it? Follow me on  [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi.
+
+
+
+ 
 
 ## Demo
 
@@ -21,11 +25,7 @@ In this section, we try to understand through video demo to play around the proj
 
 3. Creating/Deleting Database Triggers - To be updated
 
-
-
 ***Please be slightly patient while I create and upload the demo video. Please follow and star this project to get latest notifications on update.***
-
-
 
 ## About FMS
 
