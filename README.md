@@ -11,9 +11,7 @@ This repository contains all the project files and necessary details about appli
 
 Do you like it? Follow me on  [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi.
 
-
-
- 
+---
 
 ## Demo
 
@@ -25,7 +23,7 @@ In this section, we try to understand through video demo to play around the proj
 
 3. Creating/Deleting Database Triggers - To be updated
 
-***Please be slightly patient while I create and upload the demo video. Please follow and star this project to get latest notifications on update.***
+***Please be slightly patient while I create and upload the demo video. Follow and star this project to get latest notifications and update.***
 
 ## About FMS
 
