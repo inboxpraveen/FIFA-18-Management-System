@@ -2,12 +2,12 @@
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine.
 
-| Title                                  | Description                                                                                        | Link                                                                                 |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Demo :movie_camera:                    | Demo and showcase of major highlights in the project                                               | [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#demo) :point_down: |
-| Requirements :heavy_check_mark:        | Requirements and essential links to get started with the project                                   | To be Updated                                                                        |
-| Installation :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | To be Updated                                                                        |
-| Project Guide :page_with_curl:         | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated                                                                        |
+| Title                                  | Description                                                                                        | Link                                                                                              |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Demo :movie_camera:                    | Demo and showcase of major highlights in the project                                               | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#demo-movie_camera) |
+| Requirements :heavy_check_mark:        | Requirements and essential links to get started with the project                                   | To be Updated                                                                                     |
+| Installation :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | To be Updated                                                                                     |
+| Project Guide :page_with_curl:         | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated                                                                                     |
 
 Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi :wave:
 
