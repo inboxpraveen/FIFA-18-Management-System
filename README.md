@@ -2,16 +2,14 @@
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine.
 
-***NOTE: Please read the installation and execution steps provided below before downloading. Thank you.***
-
-***Project demo: [Project demo video link](https://drive.google.com/open?id=1dcTCe_G5rUe6ibVh3Yd_pe3PIPPDiJ1c)***
-
 | Topic         | Description                                                                                        | Link          |
 | ------------- | -------------------------------------------------------------------------------------------------- | ------------- |
 | Demo          | Demo and showcase of major highlights in the project                                               | To be Updated |
 | Requirements  | Requirements and essential links to get started with the project                                   | To be Updated |
 | Installation  | How to setup complete project inside your local system - Windows 10                                | To be Updated |
 | Project Guide | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated |
+
+Do you like it? Follow me on  [Twitter](https://twitter.com/InboxPraveen), [GitHub]([inboxpraveen (Praveen kumar) · GitHub](https://github.com/inboxpraveen)), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi.
 
 ## About FMS
 
