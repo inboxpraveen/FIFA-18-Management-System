@@ -8,6 +8,7 @@ This repository contains all the project files and necessary details about appli
 | Requirements :heavy_check_mark: | Requirements and essential links to get started with the project                                   | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#2-requirements-heavy_check_mark) |
 | Setup :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | To be Updated                                                                                                   |
 | Project Guide :page_with_curl:  | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated                                                                                                   |
+| Troubleshooting Issues :muscle: | Guide to resolve errors faced during reproducibility                                               | To be Updated                                                                                                   |
 
 Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi :wave:
 
