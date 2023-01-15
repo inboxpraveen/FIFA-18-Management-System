@@ -2,12 +2,12 @@
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine.
 
-| Title                                  | Description                                                                                        | Link                                                                                              |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Demo :movie_camera:                    | Demo and showcase of major highlights in the project                                               | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#demo-movie_camera) |
-| Requirements :heavy_check_mark:        | Requirements and essential links to get started with the project                                   | To be Updated                                                                                     |
-| Installation :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | To be Updated                                                                                     |
-| Project Guide :page_with_curl:         | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated                                                                                     |
+| Title                                  | Description                                                                                        | Link                                                                                                            |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Demo :movie_camera:                    | Demo and showcase of major highlights in the project                                               | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#demo-movie_camera)               |
+| Requirements :heavy_check_mark:        | Requirements and essential links to get started with the project                                   | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#2-requirements-heavy_check_mark) |
+| Installation :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | To be Updated                                                                                                   |
+| Project Guide :page_with_curl:         | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated                                                                                                   |
 
 Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi :wave:
 
@@ -41,11 +41,7 @@ To build this project without any errors/issues, the following requirements need
 
 If you are not aware if you have the right versions or you need to install them, fret not. Continue to the installation section at next.
 
-
-
 ---
-
-
 
 FIFA 18 Player management system is a player management software for monitoring and accessing players based on their FIFA 18 PC/XBOX game ratings. HTML, CSS, and JavaScript were used for front-end development, and PHP and MySQL were used for back-end development. The system mainly focuses on basic operation like adding a new player, new statistics, searching players with detailed information and edit as they grow their skills. It is a web-based application designed and developed to help users access players and organize their teams. It’s easy to use, and it features a familiar and attractive user interface combined with strong searching, insertion, and deletion with procedure capabilities.
 
