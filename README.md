@@ -13,7 +13,7 @@ Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen)
 
 ---
 
-## Demo :movie_camera:
+## 1. Demo :movie_camera:
 
 In this section, we try to understand through video demo to play around the project and what all can be achieved through it.
 
@@ -29,7 +29,23 @@ ____
 
 ---
 
-## About FMS
+## 2. Requirements :heavy_check_mark:
+
+To build this project without any errors/issues, the following requirements needs to be satisfied
+
+1. Windows Operating System (Win 10 is preferred)
+
+2. Google Chrome Browser (v80 or Higher)
+
+3. WAMP Web Server (v3.0 or higher)
+
+If you are not aware if you have the right versions or you need to install them, fret not. Continue to the installation section at next.
+
+
+
+---
+
+
 
 FIFA 18 Player management system is a player management software for monitoring and accessing players based on their FIFA 18 PC/XBOX game ratings. HTML, CSS, and JavaScript were used for front-end development, and PHP and MySQL were used for back-end development. The system mainly focuses on basic operation like adding a new player, new statistics, searching players with detailed information and edit as they grow their skills. It is a web-based application designed and developed to help users access players and organize their teams. It’s easy to use, and it features a familiar and attractive user interface combined with strong searching, insertion, and deletion with procedure capabilities.
 
