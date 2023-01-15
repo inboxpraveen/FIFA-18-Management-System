@@ -12,7 +12,7 @@ This repository contains all the project files and necessary details about appli
 
 Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi :wave:
 
----
+<hr>
 
 ## 1. Demo :movie_camera:
 
@@ -28,7 +28,7 @@ ____
 
 ***Please be slightly patient while I create and upload the demo video. Follow and star this project to get latest notifications and update. :raised_hands:***
 
----
+<hr>
 
 ## 2. Requirements :heavy_check_mark:
 
@@ -44,7 +44,7 @@ To build this project without any errors/issues, the following requirements need
 
 If you are not aware if you have the right versions or you need to install them, fret not. Continue to the installation section at next.
 
----
+<hr>
 
 ## 3. Setup :small_red_triangle_down:
 
@@ -58,7 +58,13 @@ If you are not aware if you have the right versions or you need to install them,
 
 :spiral_notepad:***NOTE: Google chrome is preferred browser to run everything smoothly, but you can use any other browser of your choice as well. It is not a hard requirement, but can help you ease your UI & UX experience.***
 
----
+### 3.2 Code Editor
+
+- To download Visual Studio Code - Just follow the official website which contains a build for all 3 platforms. Visit - [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/download)
+- You can download your OS based build and install it will all the default instructions.
+- Visual Studio Code is preferred editor but there are other good options as well. You can choose to work with whatever you are comfortable or use to.
+
+<hr>
 
 FIFA 18 Player management system is a player management software for monitoring and accessing players based on their FIFA 18 PC/XBOX game ratings. HTML, CSS, and JavaScript were used for front-end development, and PHP and MySQL were used for back-end development. The system mainly focuses on basic operation like adding a new player, new statistics, searching players with detailed information and edit as they grow their skills. It is a web-based application designed and developed to help users access players and organize their teams. It’s easy to use, and it features a familiar and attractive user interface combined with strong searching, insertion, and deletion with procedure capabilities.
 
