@@ -2,12 +2,12 @@
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine.
 
-| Title                                            | Description                                                                                        | Link                                                                                                            |
-| ------------------------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Demo :movie_camera:                              | Demo and showcase of major highlights in the project                                               | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#1-demo-movie_camera)             |
-| Requirements :heavy_check_mark:                  | Requirements and essential links to get started with the project                                   | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#2-requirements-heavy_check_mark) |
-| Installation and Setup :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | To be Updated                                                                                                   |
-| Project Guide :page_with_curl:                   | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated                                                                                                   |
+| Title                           | Description                                                                                        | Link                                                                                                            |
+| ------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Demo :movie_camera:             | Demo and showcase of major highlights in the project                                               | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#1-demo-movie_camera)             |
+| Requirements :heavy_check_mark: | Requirements and essential links to get started with the project                                   | :point_down: [Refer](https://github.com/inboxpraveen/FIFA-18-Management-System#2-requirements-heavy_check_mark) |
+| Setup :small_red_triangle_down: | How to setup complete project inside your local system - Windows 10                                | To be Updated                                                                                                   |
+| Project Guide :page_with_curl:  | Reference documentation of overall project, it's application, and how to present and showcase demo | To be Updated                                                                                                   |
 
 Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi :wave:
 
@@ -39,7 +39,23 @@ To build this project without any errors/issues, the following requirements need
 
 3. WAMP Web Server (v3.0 or higher)
 
+4. Code Editor (Visual Studio Code - Preferred)
+
 If you are not aware if you have the right versions or you need to install them, fret not. Continue to the installation section at next.
+
+---
+
+## 3. Setup :small_red_triangle_down:
+
+#### 3.1 Chrome Installation
+
+- To download latest google chrome web browser on Windows OS and install in your system, just go the following link - [Download Google Chrome Web Browser](https://www.google.com/intl/en_in/chrome/). Once you visit, it will have option for you to download chrome and then install it as usual. 
+
+- If you are on Linux OS, then you can follow - [Install Chrome on Linux Mint - Easy Step-By-Step Guide | Digital Ocean](https://www.digitalocean.com/community/tutorials/install-chrome-on-linux-mint).
+
+- If you are on Mac OS, then you can follow - [How To Install Google Chrome On Mac Quickly](https://setapp.com/how-to/install-google-chrome-for-mac-quickly). 
+
+:spiral_notepad:***NOTE: Google chrome is preferred browser to run everything smoothly, but you can use any other browser of your choice as well. It is not a hard requirement, but can help you ease your UI & UX experience.***
 
 ---
 
