@@ -64,6 +64,26 @@ If you are not aware if you have the right versions or you need to install them,
 - You can download your OS based build and install it will all the default instructions.
 - Visual Studio Code is preferred editor but there are other good options as well. You can choose to work with whatever you are comfortable or use to.
 
+### 3.3 WAMP Web Server
+
+Installing WAMP Web Server and running a local server on your machine is crucial for replicating and reproducing all the results for this project. 
+
+1. Downloading WAMP Server - Go and grab the WAMP installer application from [here](https://sourceforge.net/projects/wampserver/). The size varies based on which version you download. I have v3.3.0 on my system whose download size was 644 MB.
+
+2. Once you have downloaded, Install the with the following settings.
+
+<img title="Wamp Installlation Step 1" src="./readme_attachments/wamp_installation_1.png" alt="Step 1">
+
+<img title="Wamp Installlation Step 2" src="./readme_attachments/wamp_installation_2.png" alt="Step 2">
+
+After this, it will take some time and then install it. After some time, it will ask for a prompt on choosing the default browser on which your local server will be hosted. It initially shows me Edge, but I wish to change it to Google Chrome. 
+
+<img title="Wamp Installlation Step 3" src="./readme_attachments/wamp_installation_3.png" alt="Step 3">
+
+For changing it to Google Chrome, Just select Yes here, and then find where you have installed Google Chrome on your system. In my case, It's at the following directory.
+
+<img title="Wamp Installlation Step 4" src="./readme_attachments/wamp_installation_4.png" alt="Step 4">
+
 <hr>
 
 FIFA 18 Player management system is a player management software for monitoring and accessing players based on their FIFA 18 PC/XBOX game ratings. HTML, CSS, and JavaScript were used for front-end development, and PHP and MySQL were used for back-end development. The system mainly focuses on basic operation like adding a new player, new statistics, searching players with detailed information and edit as they grow their skills. It is a web-based application designed and developed to help users access players and organize their teams. It’s easy to use, and it features a familiar and attractive user interface combined with strong searching, insertion, and deletion with procedure capabilities.
