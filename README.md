@@ -47,7 +47,7 @@ If you are not aware if you have the right versions or you need to install them,
 
 ## 3. Setup :small_red_triangle_down:
 
-#### 3.1 Chrome Installation
+### 3.1 Chrome Installation
 
 - To download latest google chrome web browser on Windows OS and install in your system, just go the following link - [Download Google Chrome Web Browser](https://www.google.com/intl/en_in/chrome/). Once you visit, it will have option for you to download chrome and then install it as usual. 
 
