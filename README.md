@@ -94,9 +94,17 @@ By default it will set Notepad Windows Application, but as we prefer and have al
 
 This will complete the installation of WAMP Server in our system.
 
+To verify WAMP is successfully installed and the Server is running on your system, search for WAMP in your start menu applications and then run it as "administrator"
+
+<img title="" src="./readme_attachments/running_wamp_1.png" alt="">
+
+Once you run it, after few seconds, a green color wamp icon **should** appear on your tray icon.
+
+<img title="" src="./readme_attachments/running_wamp_2.png" alt="">
+
+If the color is anything but green, it looks like there is some issue while running the server.
+
 <hr>
-
-
 
 ---
 
