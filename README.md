@@ -118,7 +118,9 @@ If the color is anything but green, it looks like there is some issue while runn
 
 <img title="" src="./readme_attachments/login_wamp.png" alt="">
 
+4. Once we are logged in, we should create our database schema. To do so, select new from left panel, enter name of database as "fifa" and select encoding as "utf8mb4_unicode_ci" and then hit create button.
 
+<img title="" src="./readme_attachments/building_db_1.png" alt="">
 
 ---
 
