@@ -106,6 +106,14 @@ If the color is anything but green, it looks like there is some issue while runn
 
 <hr>
 
+## 4. Project Guide
+
+This section is divided into 3 steps.
+
+### 4.1 Building Database & Schema in WAMP
+
+
+
 ---
 
 More to be updated soon ..... 
