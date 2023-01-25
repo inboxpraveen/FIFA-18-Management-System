@@ -114,7 +114,7 @@ If the color is anything but green, it looks like there is some issue while runn
 
 2. Open Google Chrome (or any browser) and type "http://localhost/phpmyadmin" without quotes. You will be presented with the login screen.
 
-3. By default, the Username & Password are "root" and <no-password>. If this is not the case for you, you will need to change your username & password. It will look something like this.
+3. By default, the Username is "root" & and empty password. If this is not the case for you, you will need to change your username & password.
 
 <img title="" src="./readme_attachments/login_wamp.png" alt="">
 
